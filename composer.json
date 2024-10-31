@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "require": {
+        "guzzlehttp/guzzle": "^7.3",
+        "php": ">=7.4"
+        
+    },
+    "autoload": {
+        "psr-4": {"Punchlist\\": "src/"}
+    }
+}

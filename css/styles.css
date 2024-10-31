@@ -1,0 +1,39 @@
+#create-quick-project {
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+#create-project {
+    margin-top: 25px;
+}
+
+#set-up-api {
+    margin: 25px 0;
+}
+
+#set-up-api select {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 20px 10px;
+}
+
+#set-up-api input{
+    padding: 10px 20px;
+    margin: 0 10px;
+}
+
+#pl-add-to-project {
+    margin: 10px 0;
+}
+
+#pl-add-to-project {
+    display: none;
+}
+
+#pl-add-to-project-select {
+    width: 87%;
+}
+
+#punchlist_metabox .postbox-header {
+    border-bottom: none;
+}
